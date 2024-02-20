@@ -1,5 +1,5 @@
 # Tableau-Projects
-Welcome to our Tableau Projects Repository! Here, you'll find a collection of engaging and insightful data visualizations created using Tableau. Whether you're a beginner looking for inspiration or an experienced analyst seeking advanced techniques, this repository offers a diverse range of projects covering various industries and data types.
+Welcome to my Tableau Projects Repository! Here, you'll find a collection of engaging and insightful data visualizations created using Tableau. Whether you're a beginner looking for inspiration or an experienced analyst seeking advanced techniques, this repository offers a diverse range of projects covering various industries and data types.
 
 Explore our repository to discover:
 
